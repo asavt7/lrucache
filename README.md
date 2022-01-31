@@ -1,5 +1,4 @@
 ![Github CI/CD](https://img.shields.io/github/workflow/status/asavt7/lrucache/build)
-![Go Report](https://goreportcard.com/badge/github.com/asavt7/lrucache)
 ![Repository Top Language](https://img.shields.io/github/languages/top/asavt7/lrucache)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/asavt7/lrucache)
 ![Github Repository Size](https://img.shields.io/github/repo-size/asavt7/lrucache)
